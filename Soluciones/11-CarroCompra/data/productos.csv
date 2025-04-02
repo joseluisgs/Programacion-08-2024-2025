@@ -1,0 +1,16 @@
+id,nombre,precio,stock,categoria
+11,Monitor Dell 27,299.99,18,ELECTRONICA
+12,Cámara Sony A7III,1999.99,5,ELECTRONICA
+13,Pantalón Deportivo Puma,49.99,45,DEPORTE
+14,Teclado Mecánico Logitech,129.99,22,ELECTRONICA
+15,Bicicleta de Montaña Trek,799.99,7,DEPORTE
+16,Abrigo de Invierno,179.99,15,MODA
+17,Set de Pesas,159.99,25,DEPORTE
+18,Bolso de Cuero,89.99,30,MODA
+19,Juego de Mesa Monopoly,34.99,20,OTROS
+20,"iPad Pro 12.9""",1099.99,12,ELECTRONICA
+21,Gafas de Sol Ray-Ban,149.99,28,MODA
+22,Altavoces Bluetooth Bose,199.99,15,ELECTRONICA
+23,Mochila de Senderismo,79.99,33,DEPORTE
+24,Reloj Inteligente Garmin,299.99,17,ELECTRONICA
+25,Puzzle 1000 Piezas,19.99,40,OTROS

@@ -1,0 +1,237 @@
+[
+    {
+        "id": 1,
+        "nombre": "Producto 1 Modificado",
+        "precio": 10.0,
+        "stock": 10,
+        "categoria": "DEPORTE",
+        "createdAt": "2025-03-18T10:00",
+        "updatedAt": "2025-04-02T19:23:17.537278",
+        "deleted": true
+    },
+    {
+        "id": 2,
+        "nombre": "iPhone 14 Pro",
+        "precio": 1199.99,
+        "stock": 25,
+        "categoria": "ELECTRONICA",
+        "createdAt": "2025-03-18T10:01",
+        "updatedAt": "2025-03-18T10:01"
+    },
+    {
+        "id": 3,
+        "nombre": "Zapatillas Nike Air Max",
+        "precio": 129.99,
+        "stock": 28,
+        "categoria": "DEPORTE",
+        "createdAt": "2025-03-18T10:02",
+        "updatedAt": "2025-04-02T19:23:18.625419"
+    },
+    {
+        "id": 4,
+        "nombre": "Smart TV Samsung 55\"",
+        "precio": 699.99,
+        "stock": 20,
+        "categoria": "ELECTRONICA",
+        "createdAt": "2025-03-18T10:03",
+        "updatedAt": "2025-03-18T10:03"
+    },
+    {
+        "id": 5,
+        "nombre": "Raqueta de Tenis Wilson",
+        "precio": 89.99,
+        "stock": 39,
+        "categoria": "DEPORTE",
+        "createdAt": "2025-03-18T10:04",
+        "updatedAt": "2025-04-02T19:23:18.715418"
+    },
+    {
+        "id": 6,
+        "nombre": "Chaqueta North Face",
+        "precio": 199.99,
+        "stock": 10,
+        "categoria": "MODA",
+        "createdAt": "2025-03-18T10:05",
+        "updatedAt": "2025-03-18T10:05"
+    },
+    {
+        "id": 7,
+        "nombre": "Balón de Fútbol Adidas",
+        "precio": 29.99,
+        "stock": 50,
+        "categoria": "DEPORTE",
+        "createdAt": "2025-03-18T10:06",
+        "updatedAt": "2025-03-18T10:06"
+    },
+    {
+        "id": 8,
+        "nombre": "Vestido de Fiesta",
+        "precio": 159.99,
+        "stock": 35,
+        "categoria": "MODA",
+        "createdAt": "2025-03-18T10:07",
+        "updatedAt": "2025-03-18T10:07"
+    },
+    {
+        "id": 9,
+        "nombre": "Libro de Cocina",
+        "precio": 24.99,
+        "stock": 12,
+        "categoria": "OTROS",
+        "createdAt": "2025-03-18T10:08",
+        "updatedAt": "2025-03-18T10:08"
+    },
+    {
+        "id": 10,
+        "nombre": "MacBook Air M2",
+        "precio": 1299.99,
+        "stock": 8,
+        "categoria": "ELECTRONICA",
+        "createdAt": "2025-03-18T10:09",
+        "updatedAt": "2025-03-18T10:09"
+    },
+    {
+        "id": 11,
+        "nombre": "Producto 1",
+        "precio": 10.0,
+        "stock": 10,
+        "categoria": "DEPORTE",
+        "createdAt": "2025-04-02T19:23:16.951064",
+        "updatedAt": "2025-04-02T19:23:16.951064"
+    },
+    {
+        "id": 12,
+        "nombre": "Monitor Dell 27",
+        "precio": 299.99,
+        "stock": 18,
+        "categoria": "ELECTRONICA",
+        "createdAt": "2025-04-02T19:23:19.206024",
+        "updatedAt": "2025-04-02T19:23:19.206024"
+    },
+    {
+        "id": 13,
+        "nombre": "Cámara Sony A7III",
+        "precio": 1999.99,
+        "stock": 5,
+        "categoria": "ELECTRONICA",
+        "createdAt": "2025-04-02T19:23:19.425080",
+        "updatedAt": "2025-04-02T19:23:19.425080"
+    },
+    {
+        "id": 14,
+        "nombre": "Pantalón Deportivo Puma",
+        "precio": 49.99,
+        "stock": 45,
+        "categoria": "DEPORTE",
+        "createdAt": "2025-04-02T19:23:19.456084",
+        "updatedAt": "2025-04-02T19:23:19.456084"
+    },
+    {
+        "id": 15,
+        "nombre": "Teclado Mecánico Logitech",
+        "precio": 129.99,
+        "stock": 22,
+        "categoria": "ELECTRONICA",
+        "createdAt": "2025-04-02T19:23:19.673638",
+        "updatedAt": "2025-04-02T19:23:19.673638"
+    },
+    {
+        "id": 16,
+        "nombre": "Bicicleta de Montaña Trek",
+        "precio": 799.99,
+        "stock": 7,
+        "categoria": "DEPORTE",
+        "createdAt": "2025-04-02T19:23:19.692639",
+        "updatedAt": "2025-04-02T19:23:19.692639"
+    },
+    {
+        "id": 17,
+        "nombre": "Abrigo de Invierno",
+        "precio": 179.99,
+        "stock": 15,
+        "categoria": "MODA",
+        "createdAt": "2025-04-02T19:23:19.903261",
+        "updatedAt": "2025-04-02T19:23:19.903261"
+    },
+    {
+        "id": 18,
+        "nombre": "Set de Pesas",
+        "precio": 159.99,
+        "stock": 25,
+        "categoria": "DEPORTE",
+        "createdAt": "2025-04-02T19:23:19.928260",
+        "updatedAt": "2025-04-02T19:23:19.928260"
+    },
+    {
+        "id": 19,
+        "nombre": "Bolso de Cuero",
+        "precio": 89.99,
+        "stock": 30,
+        "categoria": "MODA",
+        "createdAt": "2025-04-02T19:23:20.142779",
+        "updatedAt": "2025-04-02T19:23:20.142779"
+    },
+    {
+        "id": 20,
+        "nombre": "Juego de Mesa Monopoly",
+        "precio": 34.99,
+        "stock": 20,
+        "categoria": "OTROS",
+        "createdAt": "2025-04-02T19:23:20.167676",
+        "updatedAt": "2025-04-02T19:23:20.167676"
+    },
+    {
+        "id": 21,
+        "nombre": "\"iPad Pro 12.9\"\"\"",
+        "precio": 1099.99,
+        "stock": 12,
+        "categoria": "ELECTRONICA",
+        "createdAt": "2025-04-02T19:23:20.378212",
+        "updatedAt": "2025-04-02T19:23:20.378212"
+    },
+    {
+        "id": 22,
+        "nombre": "Gafas de Sol Ray-Ban",
+        "precio": 149.99,
+        "stock": 28,
+        "categoria": "MODA",
+        "createdAt": "2025-04-02T19:23:20.402565",
+        "updatedAt": "2025-04-02T19:23:20.402565"
+    },
+    {
+        "id": 23,
+        "nombre": "Altavoces Bluetooth Bose",
+        "precio": 199.99,
+        "stock": 15,
+        "categoria": "ELECTRONICA",
+        "createdAt": "2025-04-02T19:23:20.615996",
+        "updatedAt": "2025-04-02T19:23:20.615996"
+    },
+    {
+        "id": 24,
+        "nombre": "Mochila de Senderismo",
+        "precio": 79.99,
+        "stock": 33,
+        "categoria": "DEPORTE",
+        "createdAt": "2025-04-02T19:23:20.643997",
+        "updatedAt": "2025-04-02T19:23:20.643997"
+    },
+    {
+        "id": 25,
+        "nombre": "Reloj Inteligente Garmin",
+        "precio": 299.99,
+        "stock": 17,
+        "categoria": "ELECTRONICA",
+        "createdAt": "2025-04-02T19:23:20.857991",
+        "updatedAt": "2025-04-02T19:23:20.857991"
+    },
+    {
+        "id": 26,
+        "nombre": "Puzzle 1000 Piezas",
+        "precio": 19.99,
+        "stock": 40,
+        "categoria": "OTROS",
+        "createdAt": "2025-04-02T19:23:20.888004",
+        "updatedAt": "2025-04-02T19:23:20.888004"
+    }
+]

@@ -1,0 +1,48 @@
+{
+    "id": "c4467403-14d3-4168-9449-bd87bb6a4f7f",
+    "cliente": {
+        "id": 1,
+        "nombre": "Cliente Test",
+        "direccion": "Calle del Aprobado, 5. Leganés",
+        "email": "juan.perez@example.com",
+        "createdAt": "2025-03-18T10:10",
+        "updatedAt": "2025-03-18T10:10"
+    },
+    "lineas": [
+        {
+            "id": "90070ffc-8fe0-429d-b499-147e35e35c98",
+            "producto": {
+                "id": 3,
+                "nombre": "Zapatillas Nike Air Max",
+                "precio": 129.99,
+                "stock": 30,
+                "categoria": "DEPORTE",
+                "createdAt": "2025-03-18T10:02",
+                "updatedAt": "2025-03-18T10:02"
+            },
+            "cantidad": 2,
+            "precio": 129.99000549316406,
+            "createdAt": "2025-04-02T19:20:06.374093800",
+            "updatedAt": "2025-04-02T19:20:06.374093800"
+        },
+        {
+            "id": "ed7286ce-47ea-4bfc-97d2-929a216ae49a",
+            "producto": {
+                "id": 5,
+                "nombre": "Raqueta de Tenis Wilson",
+                "precio": 89.99,
+                "stock": 40,
+                "categoria": "DEPORTE",
+                "createdAt": "2025-03-18T10:04",
+                "updatedAt": "2025-03-18T10:04"
+            },
+            "cantidad": 1,
+            "precio": 89.98999786376953,
+            "createdAt": "2025-04-02T19:20:06.374093800",
+            "updatedAt": "2025-04-02T19:20:06.374093800"
+        }
+    ],
+    "total": 219.9800033569336,
+    "createdAt": "2025-04-02T19:20:06.374093800",
+    "updatedAt": "2025-04-02T19:20:06.374093800"
+}
